@@ -1,17 +1,11 @@
-[13908:10672:0722/141404.188:INFO:components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc:202] No machine level policy manager exists.
-[11220:21400:0722/141404.318:INFO:third_party\webrtc\rtc_base\cpu_info.cc:57] Available number of cores: 28
-[65020:27208:0722/141404.318:INFO:third_party\webrtc\rtc_base\cpu_info.cc:57] Available number of cores: 28
-[7028:15744:0722/141404.459:VERBOSE1:components\viz\service\main\viz_main_impl.cc:86] VizNullHypothesis is disabled (not a warning)
-[57296:46536:0722/141404.570:INFO:third_party\webrtc\rtc_base\cpu_info.cc:57] Available number of cores: 28
-[56276:54920:0722/141404.653:INFO:third_party\webrtc\rtc_base\cpu_info.cc:57] Available number of cores: 28
-[13908:10672:0722/141405.530:INFO:CONSOLE:56] "Hello! You're looking under the hood! Sensor Tower is hiring someone just like you :) Email us at recruiting@sensortower.com", source: https://app.sensortower.com/top-charts?category=6014&country=JP&date=2025-07-22&device=iphone&os=ios (56)
-[13908:10672:0722/141405.636:INFO:CONSOLE:1] "[bugsnag] Loaded!", source: https://d1exy62jh2w365.cloudfront.net/packs/js/516-8c7f88e56ec33746.js (1)
-[13908:10672:0722/141405.778:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.176 s for first_image_paint 1.171 s
-[13908:10672:0722/141405.893:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.176 s for first_image_paint 1.171 s
-[13908:10672:0722/141406.566:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.176 s for first_image_paint 1.171 s
-[13908:10672:0722/141406.695:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.176 s for first_image_paint 1.171 s
-[13908:10672:0722/141406.811:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.176 s for first_image_paint 1.171 s
-[13908:10672:0722/141407.266:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.176 s for first_image_paint 1.171 s
-[13908:15924:0722/141409.404:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
-[16252:33036:0722/141417.079:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
-[16252:33036:0722/141417.079:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
+[36136:41124:0722/165601.771:INFO:components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc:202] No machine level policy manager exists.
+[14644:59876:0722/165601.868:INFO:third_party\webrtc\rtc_base\cpu_info.cc:57] Available number of cores: 28
+[11588:16404:0722/165601.874:INFO:third_party\webrtc\rtc_base\cpu_info.cc:57] Available number of cores: 28
+[33972:33936:0722/165602.040:VERBOSE1:components\viz\service\main\viz_main_impl.cc:86] VizNullHypothesis is disabled (not a warning)
+[32260:65600:0722/165602.181:INFO:third_party\webrtc\rtc_base\cpu_info.cc:57] Available number of cores: 28
+[46308:452:0722/165602.225:INFO:third_party\webrtc\rtc_base\cpu_info.cc:57] Available number of cores: 28
+[16796:18928:0722/165602.701:WARNING:net\spdy\spdy_session.cc:3054] Received HEADERS for invalid stream 1
+[36136:41124:0722/165603.173:INFO:CONSOLE:56] "Hello! You're looking under the hood! Sensor Tower is hiring someone just like you :) Email us at recruiting@sensortower.com", source: https://app.sensortower.com/top-charts?category=6014&country=JP&date=2025-07-22&device=iphone&os=ios (56)
+[36136:41124:0722/165603.249:INFO:CONSOLE:1] "[bugsnag] Loaded!", source: https://d1exy62jh2w365.cloudfront.net/packs/js/516-8c7f88e56ec33746.js (1)
+[36136:26164:0722/165606.844:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[36136:26164:0722/165628.549:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
